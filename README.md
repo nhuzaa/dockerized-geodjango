@@ -45,6 +45,7 @@ Run the Docker container: `docker run -d -p 8000:8000 geodjango`
 
 - Access the GeoDjango application at `http://localhost:8000`
 - Start developing your GeoDjango-based geographic web application
+- Mapbox
 
 ## Contributing
 
